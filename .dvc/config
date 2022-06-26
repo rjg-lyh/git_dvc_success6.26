@@ -1,4 +1,6 @@
 [core]
-    remote = origin
+    remote = storage
 ['remote "origin"']
     url = ../../store
+['remote "storage"']
+    url = gdrive://1p8TvpTUJxoUc3_ZGzNevgsaHHSEveiN5
